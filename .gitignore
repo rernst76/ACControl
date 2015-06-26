@@ -1,0 +1,7 @@
+src/
+bin/
+lib/
+include/
+local/
+*.pyc
+NEST/*.json
